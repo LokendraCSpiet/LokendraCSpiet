@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Programming...
 - 💞️ I’m looking to collaborate on IT Company
-- 📫 How to reach me - luckyarya1999@poornima.org
+- 📫 How to reach me - luckyarya1999@gmail.com
 
 <!---
 LokendraCSpiet/LokendraCSpiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
