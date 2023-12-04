@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lokendra Arya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Programming...
+- 👀 I’m a Software Developer
+- 🌱 I’m currently Working
 - 💞️ I’m looking to collaborate on IT Company
 - 📫 How to reach me - luckyarya1999@gmail.com
 
