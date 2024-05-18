@@ -2,7 +2,7 @@
 - 👀 I’m a Software Developer
 - 🌱 I’m currently Working
 - 💞️ I’m looking to collaborate on IT Company
-- 📫 How to reach me - luckyarya1999@gmail.com
+- 📫 How to reach me - lokendraarya1999@gmail.com
 
 <!---
 LokendraCSpiet/LokendraCSpiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
